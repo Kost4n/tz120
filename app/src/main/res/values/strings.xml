@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">tz120</string>
+    <string name="text_welcome">Welcome to Bitcoin Miner</string>
+    <string name="text_boost">Используйте ускорение</string>
+    <string name="text_server">Активируйте мощный сервер</string>
+    <string name="text_server_ping">Ping</string>
+    <string name="text_server_speed">ms</string>
+    <string name="text_raising">Увелечение дохода</string>
+    <string name="button_start">Начать</string>
+    <string name="button_boost">Boost</string>
+    <string name="button_receive">Получить BTC</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Управление</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_wallet">Кошелёк</string>
+    <string name="text_button_boost">+50%</string>
+    <string name="satoshi_score">0 Satoshi</string>
+    <string name="satoshi">Satoshi</string>
+    <string name="btc_score">0 BTC</string>
+    <string name="btc">BTC</string>
+    <string name="text_balance">Your balance</string>
+</resources>
